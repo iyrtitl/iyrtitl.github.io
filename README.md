@@ -1,4 +1,4 @@
-
+<meta property='og:image' content='//media.example.com/ 1234567.jpg'/>
 # iyrtitl.github.io
 
 * [Fraud Balancing Algorithms](/01/)
